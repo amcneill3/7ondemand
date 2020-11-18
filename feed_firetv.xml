@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
    <channel>
-      <title>Seven On Demand</title>
+      <title>TESTSeven On Demand</title>
       <link>https://www.7od.net</link>
       <language>en-us</language>
       <pubDate>Wed, 18 Nov 2020 10:13:56 -0500</pubDate>
@@ -10,7 +10,7 @@
       <description>Powerful educational and entertainment media.</description>
       <image>
          <link>https://www.7od.net</link>
-         <title>Seven On Demand</title>
+         <title>TESTSeven On Demand</title>
          <url>https://www.7od.net/wp-content/uploads/2020/08/7od-tv-mockup-1.png</url>
          <description>Powerful educational and entertainment media.</description>
          <height>114</height>
@@ -25,7 +25,7 @@
          <guid isPermaLink="false">http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/shade/</guid>
          <media:category>All</media:category>
          <media:category>Trail</media:category>
-         <media:content url="http://d1nixf144dcz0j.cloudfront.net/shade.mp4" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="true">
+         <media:content url="http://tvstartup4.biz/mng-channel/vpanel/vod-admin.php?token=aa4c432e0f8bb3777a320fa17bccbfa8&id=3816" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="true">
             <media:title type="plain">Shade</media:title>
             <media:description type="html">Drug Effected 2020</media:description>
             <media:thumbnail url="http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/images/thumbs/shade.jpg" />
