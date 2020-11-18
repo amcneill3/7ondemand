@@ -25,9 +25,9 @@
          <guid isPermaLink="false">https://www.7od.net</guid>
          <media:category>All</media:category>
          <media:category>Popular on Seven</media:category>
-         <media:content url="https://hls-cdn.tvstartup4.net/tvstartup4-vod/play/sestore4/tvstartup4/newsystem/seven_Drug-Affected-2020_1597294983890.mp4" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="true">
+         <media:content url="https://tvstartup4.biz/mng-channel/vpanel/vod_clappr.php?user=seven&pass=aa4c432e0f8bb3777a320fa17bccbfa8&id=3816" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="true">
             <media:title type="plain">Shade</media:title>
-            <media:description type="html">Drug Effected 2020</media:description>
+            <media:description type="html">Drug Affected 2020</media:description>
             <media:thumbnail url="http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/images/thumbs/shade.jpg" />
             <media:credit role="author" scheme="urn:ebu">Tom Johnson</media:credit>
             <media:copyright url="https://creativecommons.org/licenses/by/4.0/" />
@@ -41,7 +41,7 @@
          <guid isPermaLink="false">http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/spectators/</guid>
          <media:category>All</media:category>
          <media:category>Grass</media:category>
-         <media:content url="https://hls-cdn.tvstartup4.net/tvstartup4-vod/play/sestore4/tvstartup4/newsystem/seven_Drug-Affected-2020_1597294983890.mp4" language="en-us" fileSize="19000000" duration="120.0" medium="video" isDefault="true">
+         <media:content url="https://tvstartup4.biz/mng-channel/vpanel/vod_clappr.php?user=seven&pass=aa4c432e0f8bb3777a320fa17bccbfa8&id=3816" language="en-us" fileSize="19000000" duration="120.0" medium="video" isDefault="true">
             <media:title type="plain">Drug Effected 2020</media:title>
             <media:description type="html">"Your worst enemy cannot harm you as much as your own thoughts, unguarded." – Buddha</media:description>
             <media:thumbnail url="http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/images/thumbs/spectators.jpg" />
