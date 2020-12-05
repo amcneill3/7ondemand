@@ -25,7 +25,7 @@
          <guid isPermaLink="false">https://www.7od.net</guid>
          <media:category>All</media:category>
          <media:category>Popular on Seven</media:category>
-         <media:content url="http://tvstartup4.biz/mng-channel/vpanel/vod-admin.php?token=aa4c432e0f8bb3777a320fa17bccbfa8&id=7300" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="true">
+         <media:content url="https://hls-cdn.tvstartup4.net/tvstartup4-vod/play/sestore4/tvstartup4/newsystem/seven_This-week-on-SEVEN_1606716774769.mp4/playlist.m3u8" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="true">
             <media:title type="plain">Shade</media:title>
             <media:description type="html">Drug Affected 2020</media:description>
             <media:thumbnail url="http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/images/thumbs/shade.jpg" />
