@@ -33,21 +33,5 @@
             <media:copyright url="https://creativecommons.org/licenses/by/4.0/" />
          </media:content>
       </item>
-      <item>
-         <title>Spectators</title>
-         <pubDate>Thu, 12 Oct 2017 00:00:00 -0700</pubDate>
-         <link>http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/spectators/</link>
-         <description>"Your worst enemy cannot harm you as much as your own thoughts, unguarded." – Buddha</description>
-         <guid isPermaLink="false">http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/spectators/</guid>
-         <media:category>All</media:category>
-         <media:category>Grass</media:category>
-         <media:content url="rtmp://live.tvstartup4.net/tvstartup4-chorigin/live" language="en-us" fileSize="19000000" duration="120.0" medium="video" isDefault="true">
-            <media:title type="plain">Drug Effected 2020</media:title>
-            <media:description type="html">"Your worst enemy cannot harm you as much as your own thoughts, unguarded." – Buddha</media:description>
-            <media:thumbnail url="http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/images/thumbs/spectators.jpg" />
-            <media:credit role="author" scheme="urn:ebu">Tom Johnson</media:credit>
-            <media:copyright url="https://creativecommons.org/licenses/by/4.0/" />
-         </media:content>
-      </item>
    </channel>
 </rss>
