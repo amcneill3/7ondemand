@@ -25,7 +25,7 @@
          <guid isPermaLink="false">https://www.7od.net</guid>
          <media:category>All</media:category>
          <media:category>Popular on Seven</media:category>
-         <media:content url="http://7ondemandpoc.s3.us-east-2.amazonaws.com/Now+playling+VOD+This+week+on+SEVEN.mp4" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="true">
+         <media:content url="http://7ondemandpoc.s3.us-east-2.amazonaws.com/trailer.mp4" language="en-us" fileSize="37000000" duration="120.0" medium="video" isDefault="true">
             <media:title type="plain">Shade</media:title>
             <media:description type="html">Drug Affected 2020</media:description>
             <media:thumbnail url="http://sample-firetv-web-app.s3-website-us-west-2.amazonaws.com/images/thumbs/shade.jpg" />
